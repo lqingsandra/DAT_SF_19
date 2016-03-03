@@ -1,0 +1,4 @@
+
+After reviewing your project, I can clearly understand what you are trying to analyze and present.  Your dataset is very clear and easy to understand.  I can see there are several variables contribute to service level.  
+In your codes, you used several models to analyze the correlation between offered calls, phone calls and service level.  It is a good way to start analyzing the dateset.  As I saw you used a few different models to analyze similar problem, you may also compare the results to figure out the differences and to increase result accuracy.  
+Overall, I think you have a great start and on the right path to reaching your goal.
